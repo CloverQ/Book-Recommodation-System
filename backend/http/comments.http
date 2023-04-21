@@ -1,0 +1,6 @@
+POST http://localhost:8080/comments/save
+Content-Type: application/json
+
+{"bookId": 1, "userId":  2, "userName": "user_add_test", "content":  "post_test"}
+
+###

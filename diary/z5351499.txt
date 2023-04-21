@@ -1,0 +1,40 @@
+week 1
+
+We made a jira group and discussed our topic
+
+week 2
+
+We organized our first official team meeting. The website theme was finalized and the homepage design style and technology stack to be used were discussed.
+
+week 3
+
+In this meeting, we began to study the details of our project, and clarified the division of labor of each member, and learned the use of lvue.
+
+week 4
+
+According to the image of the UI and the functions decided by the discussion, I started to implement the code of the front end of the web page
+
+week 5
+
+1. We have implemented some functions, including login and registration
+2. We completed the library management front page
+
+week 6
+
+We still organized a short meeting and discussed the content of the report
+
+week 7
+
+Added some functions in the front end, including homepage, information page, and search page, and cooperated with other team members to integrate and debug the front-end and back-end interfaces.
+
+week 8
+
+We have further improved the code and conducted relevant reporting drills
+
+week 9
+
+Corrected the bugs in some codes with the team members, and performed further demonstration exercises together
+
+week 10
+
+Together we did the final part of the code and report and gave a presentation.

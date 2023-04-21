@@ -1,0 +1,20 @@
+week1:
+Met the teammates ,create the group and choose the topic of this course.
+week2:
+have a discuss of our system and make sure the method to do build the system.
+week3:
+from week2 discussion, we finished the proposal of the system and make sure which part of things I need to do.
+week4:
+base on the presonal work, start building the system.
+week5:
+finish part of the system base on jira for demo A 
+week6:
+group discuss and  finish the Retrospective A Report
+week7:
+base on the demo A report prepare the demo B to make it better 
+week8:
+finish part of the system base on jira for demo B
+week9:
+group discuss and  finish the Retrospective B Report
+week10:
+finish the final version of the system and prepare for the presentation.

@@ -1,0 +1,34 @@
+Week1
+Registered a jira account and joined our group.
+Week2
+1. Discussed with team members and determined the theme of the website.
+2. Identified the technology used for the website
+3. Design the website function and UI.
+4. The jira log was added.
+Week3
+1. Completed the proposal.
+2. According to the proposal, the data table and the relationship between entities are designed.
+3. The AWS RDS are configured and connected to Idea.
+4. The sql file is imported and the database is generated.
+Week4
+1. Entity classes and Mapper for the book table, category table, comment table, and user table are generated using the Mybatis generator.
+2. Completed the user registration and login related api, book information CRUD related api.
+3. Clarified the logic of entity one-to-many and many-to-many relationships, but did not implement the api.
+Week5
+1. Added login validation and user password encryption, as well as login and logout api.
+2. Completed the library management page back-end interface and front-end page.
+3. The night mode function is complete.
+Week6
+nothing...
+Week7
+1. Added home page, book info page and search results page
+2. Modify the book table in the database
+3. Added comment related API
+Week8
+1. The interface related to book recommendation is written, in which collaborative filtering is selected.
+2. The front-end page of book recommendation is written.
+Week9
+1. Fixed a bug in the display order of login, registration and logout.
+2. Upload the complete project file to github and try running it on a linux virtual machine.
+Week10
+1. Complete the report sections related to the virtual machine.

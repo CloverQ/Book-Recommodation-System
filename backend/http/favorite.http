@@ -1,0 +1,6 @@
+POST http://localhost:8080/favorite/save
+Content-Type: application/json
+
+{"userId":  4, "bookId":  1, "bookTitle":  "The Hunger Games", "imgUrl":  "https://images.gr-assets.com/books/1447303603l/2767052.jpg"}
+
+###

@@ -1,0 +1,41 @@
+# update and insert test
+POST http://localhost:8080/book/save
+Content-Type: application/json
+
+{"bookId":1,"bookTitle":"The Hunger Games","imgUrl":"https://images.gr-assets.com/books/1447303603l/2767052.jpg","bookIsbn":"9780440000000","bookRating":4.3,"publicationDate":"2003-02-27T13:00:00.000+00:00","publisher":"test","bookDesc":"Winning will make you famous. Losing means certain death.The nation of Panem, formed from a post-apocalyptic North America, is a country that consists of a wealthy Capitol region surrounded by 12 poorer districts. Early in its history, a rebellion led by a 13th district against the Capitol resulted in its destruction and the creation of an annual televised event known as the Hunger Games. In punishment, and as a reminder of the power and grace of the Capitol, each district must yield one boy and one girl between the ages of 12 and 18 through a lottery system to participate in the games. The 'tributes' are chosen during the annual Reaping and are forced to fight to the death, leaving only one survivor to claim victory.When 16-year-old Katniss's young sister, Prim, is selected as District 12's female representative, Katniss volunteers to take her place. She and her male counterpart Peeta, are pitted against bigger, stronger representatives, some of whom have trained for this their whole lives. , she sees it as a death sentence. But Katniss has been close to death before. For her, survival is second nature.","bookAuthor":"Suzanne Collins","category":"Young Adult, Fiction, Science Fiction, Dystopia, Fantasy, Science Fiction","totalReaders":0}
+
+###
+#search test
+GET http://localhost:8080/book/list?BookTitle=Game
+Accept: application/json
+
+###
+###
+#search test
+GET http://localhost:8080/book/list?BookId=1
+Accept: application/json
+
+###
+###
+#page test
+GET http://localhost:8080/book/list?page=1&size=3
+Accept: application/json
+
+###
+
+# update and insert test
+POST http://localhost:8080/book/list1
+Content-Type: application/json
+
+{"imageUrl": "12345"}
+
+###
+GET http://localhost:8080/book/list
+Accept: application/json
+
+###
+
+GET http://localhost:8080/book/comments?bookId=1
+Accept: application/json
+
+###

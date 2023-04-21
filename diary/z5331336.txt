@@ -1,0 +1,45 @@
+Week1 
+
+We formed a group. I met other team members and joined the Jira account. In addition,
+We started thinking about our responsibilities and roles within the team, and came to a final decision: the book recommendation system.
+
+
+Week2 
+
+I attended a meeting with other team members. We talked about home page design, relational database and we decided to use MySQL. Its community has a lot of support and detailed documentation, so we can have less difficulties when developing.
+
+
+Week3
+
+Studying our project and learning about some of the new features of vue. This is a powerful framework with a lot of detailed code guidance. So I spent some time digging into it.
+
+Week 4
+
+Began to write user registration login logout page code.
+
+week5
+meeting for the demo A
+implement components in User page
+
+week6
+write and submit Retrospective A Report
+
+week7
+Integrate front-end and back-end interface issues and debug
+
+week8
+meeting for the demoB
+implement the components in manager page
+
+week9
+write and submit Retrospective B Report
+start the final project report
+
+week10
+prepare for the final demo
+finish the final part of the  project reprot
+
+
+
+
+
